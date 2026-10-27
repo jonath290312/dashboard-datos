@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #14213d;
+  color: white;
+  padding: 25px 40px;
+}
+
+.navbar h1 {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.navbar p {
+  font-size: 16px;
+}
+
+.contenido {
+  padding: 40px;
+}
+
+.contenido h2 {
+  color: #14213d;
+  margin-bottom: 15px;
+}
+
+.contenido p {
+  color: #555;
+}
